@@ -14,7 +14,7 @@ This portfolio project was created using cutting-edge technologies such as Next.
 Changes have been made to my personal website Deeplogic.dev to create a unique design and reflect personal characteristics.
 You can see the demo version of the project by following the link:
 
-https://deeplogic.dev/
+https://deeplogic.ch/
 
 
 ## Requirements
